@@ -1,0 +1,25 @@
+1- Ver necessidade do projeto:
+
+  1.1) Pagina web para visualização de informações sobre filmes que estão no cinema e que iram lançar;
+  1.2) Informações claras e simples.
+
+2- Necessidades:
+
+  2.1) Uso de html + css;
+  2.2) Bootstrap (Isso vai ajudar!);
+  2.3) Uso de trailer pelo youtube;
+  2.4) Crie uma arte pro projeto!(Challenge?!)
+
+3- Passos:
+
+  3.1) Desenvolver pagina html simples para o projeto;
+  3.2) Aplicar CSS simples;
+  3.3) Pesquisar sobre o tema do projeto;
+  3.4) Desenhar como ficará o conceito e o design da página;
+  3.5) Aplicar bootstrap na página básica, desenvolvendo assim o corpo do projeto!;
+  3.6) Escolher filmes que serão divulgados na página;
+  3.7) Desenvolver a página html e o css;
+  3.8) Aplicar os trailers;
+  3.9) Testes e aprovação;
+
+4- Apresentação.
