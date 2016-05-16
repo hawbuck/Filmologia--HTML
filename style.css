@@ -1,0 +1,68 @@
+h1{
+	
+	font-family: verdana;
+	font-size: 220%;
+	text-align:center;
+}
+h2{
+	font-family: verdana;
+	font-size: 120%
+}
+ 
+h3{
+	text-align: center;
+	font-family: verdana;
+	font-size: 120%
+}
+#header{
+		background-color: green;
+		color: white;
+		text-align:center;
+		padding: 5px;
+		font-family: verdana;
+}
+#header2{
+		background-color: orange;
+		color: white;
+		text-align:center;
+		padding: 2px;
+		font-family: verdana;
+}
+
+
+#nav{
+	line-height: 40px;
+	background-color:green;
+	height:700px;
+	width:100px;
+	float: left;
+	padding: 5px;
+}
+#nav2{
+	line-height: 40px;
+	background-color:green;
+	height:700px;
+	width:100px;
+	float: right;
+	padding: 5px;
+}
+#section{
+	height:300px;
+	position: relative;
+	width:1510px;
+	float:left;
+	font-size: 100%;
+	font-family: verdana;
+	padding:10px;
+	background-color: white;
+}
+#section2{
+	height:300px;
+	width:1200px;
+	float:left;
+	padding:20px;
+	background-color: white;
+	font-family: verdana;
+}
+
+fjigdgiofgjd
